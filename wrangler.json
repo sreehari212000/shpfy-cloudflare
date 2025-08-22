@@ -13,14 +13,7 @@
       "nodejs_compat_v2"
     ],
     "vars": {
-      "SHOPIFY_APP_URL": "https://cloudflare-workers-app.ilias-had.workers.dev",
+      "SHOPIFY_APP_URL": "https://cloudflare-workers-app.shijinpaleri.workers.dev/",
       "SCOPES": "writes_products"
-    },
-    "d1_databases": [
-      {
-        "binding": "DB",
-        "database_name": "sample",
-        "database_id": "c93e58dd-ec1b-483a-b169-ec638925abb9"
-      }
-    ]
+    }
   }
